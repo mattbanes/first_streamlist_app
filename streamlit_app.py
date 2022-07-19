@@ -1,4 +1,3 @@
-#!/usr/bin/env python3.7
 import streamlit
 
 streamlit.title('My Mom''s New Healthy Diner')
