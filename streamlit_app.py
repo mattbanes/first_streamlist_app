@@ -1,3 +1,5 @@
+conda install python 3.7.0
+
 import streamlit
 
 streamlit.title('My Mom''s New Healthy Diner')
